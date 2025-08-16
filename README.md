@@ -1,11 +1,16 @@
-<div align="center">
+# Artemo AI Dashboard
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This repository contains the frontend code for the Artemo AI Dashboard, a powerful suite of tools for copywriters and marketers.
 
-  <h1>Built with AI Studio</h2>
+---
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+### 📘 Product Requirement Docs
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+- [Dashboard Overview PRD](./docs/PRD-Overview.md)
+- [Client Management Tools](./docs/PRD-Client-Management.md)
+- [Copy Improvement Tools](./docs/PRD-Copy-Improvement.md)
+- [Email Copy Tools](./docs/PRD-Email-Copy.md)
+- [Sales & Funnel Tools](./docs/PRD-Sales-Funnel.md)
+- [Podcast Tools](./docs/PRD-Podcast-Tools.md)
+- [Long Form Content](./docs/PRD-Long-Form-Content.md)
+- [Other Tools](./docs/PRD-Misc-Other.md)
